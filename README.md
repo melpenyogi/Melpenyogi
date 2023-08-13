@@ -1,7 +1,7 @@
 ![image](https://github.com/Melpenyogi/Melpenyogi/assets/82245765/9585c223-d3b3-4490-98f2-41d0c4afe608)<h1 align="center">Hey Everyone 👋, I'm Melpen Yogi</h1>
 <div align="center"><img src="#"> </div>
 <h3 align="center">A passionate Developer Web/Blog & Learning Pemrograman From Papua. </h3>
-<img align="right" alt="Coding" width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiA-5fOMAopGy_CTYdwcpGSzltqe_e2JB__Yx8eJrLcrxmvHWWGZAKJ_8wx6katT5rBznrhKBVG1PsscA22RSmvt_aGIdJ8dhhcjY_GCaKJI__BY12Zetv9iOnyf4qnghia4ICqCM_l3Wx-vc3goxfHM_wDTL0DkAKlGUI3ZY_mAhIf2yYgOdHnPjZAWr8/s2544/pro-melpen.png">
+<img align="right" alt="Coding" width="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiA-5fOMAopGy_CTYdwcpGSzltqe_e2JB__Yx8eJrLcrxmvHWWGZAKJ_8wx6katT5rBznrhKBVG1PsscA22RSmvt_aGIdJ8dhhcjY_GCaKJI__BY12Zetv9iOnyf4qnghia4ICqCM_l3Wx-vc3goxfHM_wDTL0DkAKlGUI3ZY_mAhIf2yYgOdHnPjZAWr8/s2544/pro-melpen.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
