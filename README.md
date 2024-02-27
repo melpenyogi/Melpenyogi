@@ -60,5 +60,3 @@
 ### 🔝 Top Learned Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Melpenyogi&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 📈 Support & Donasi
-<p><a href="https://www.buymeacoffee.com/sacode.web.id/donasi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sacode.web.id/donasi" /></a><a href="https://ko-fi.com/https://highlandroastery.com/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://highlandroastery.com/" /></a></p><br><br>
