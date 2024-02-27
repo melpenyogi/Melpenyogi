@@ -1,6 +1,6 @@
 ![image](https://github.com/Melpenyogi/Melpenyogi/assets/82245765/9585c223-d3b3-4490-98f2-41d0c4afe608)<h1 align="center">Hey Everyone 👋, I'm Melpen Yogi</h1>
 <div align="center"><img src="#"> </div>
-<h3 align="center">A passionate From Papua. </h3>
+<h3 align="center">🚀From the Papua Code.</h3>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=246DF7&width=435&lines=Experienced+Design+Web%2FBlog.;Learning+full-Stack+Developer;experienced+UI+%2F+UX+Designer;I+Always+Enjoyed+Learning+Programming" alt="Typing SVG" /></a>
