@@ -26,13 +26,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🔭 I’m currently working on [Developer Web/blog](https://github.com/Melpenyogi)
+- 🔭 I’m currently working on [WordPress Designer & Web/blog](https://github.com/Melpenyogi)
 
-- 🌱 I’m currently learning **Developer Web/blog**
+- 🌱 I’m currently learning **Web programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Melpenyogi](https://github.com/Melpenyogi)
 
-- 💬 Ask me about **Learn programing**
+- 💬 Ask me about **Web Designer**
 
 - 📫 How to reach me **melpenyogi2019@gmail.com**
 
