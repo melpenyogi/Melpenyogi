@@ -26,7 +26,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🔭 I’m currently working on [Website WordPress Designer](https://github.com/Melpenyogi)
+- 🔭 I’m currently working on [CMS Designer](https://github.com/Melpenyogi)
 
 - 🌱 I’m currently learning **Web programming**
 
@@ -58,5 +58,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Melpenyogi&" alt="Melpenyogi" /></p>
 
 ### 🔝 Top Learned Repo
-![](https://github-contributor-stats.vercel.app/api?username=Melpenyogi&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
 
