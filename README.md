@@ -1,4 +1,4 @@
-![image](https://github.com/Melpenyogi/Melpenyogi/assets/82245765/9585c223-d3b3-4490-98f2-41d0c4afe608)<h1 align="center">Hey Everyone 👋, I'm Melpen Yogi</h1>
+![image](https://github.com/Melpenyogi/Melpenyogi/assets/82245765/9585c223-d3b3-4490-98f2-41d0c4afe608)<h1 align="center">Hey Everyone 👋, I'm Melpen</h1>
 <div align="center"><img src="#"> </div>
 <h3 align="center">🚀From Papua Codes to the rest of the world.</h3>
 <p align="center">
@@ -26,27 +26,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🔭 I’m currently working on [CMS Designer](https://github.com/Melpenyogi)
+- 🌐 I am WordPress designer
 
-- 🌱 I’m currently learning **Web programming**
+- 🌱 I’m currently learning Web programming
 
-- 👨‍💻 All of my projects are available at [https://github.com/Melpenyogi](https://github.com/Melpenyogi)
+- 📫 I’m interested in Information Technologies
 
-- 💬 Ask me about **Web Designer**
+- 🚀 I'm learning fullstack developer
 
-- 📫 How to reach me **melpenyogi2019@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/melpenyogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="20" width="20" /></a>
-<a href="https://instagram.com/melpen.yogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="20" width="20" /></a>
-<a href="https://www.facebook.com/melpenyogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m_aditya_jaiswal" height="20" width="20" /></a>
-</a>
-<a href="https://www.whatsapp.com/081212924708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="m_aditya_jaiswal" height="20" width="20" /></a>
-  
+<h3 align="left">Connect with me👆🏿</h3>
+<p align="left"> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Melpenyogi&show_icons=true&locale=en&layout=compact" alt="jaiswaladi246" /></p>
