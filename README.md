@@ -1,4 +1,5 @@
-![image](https://github.com/Melpenyogi/Melpenyogi/assets/82245765/9585c223-d3b3-4490-98f2-41d0c4afe608)<h1 align="center">Hey Everyone 👋, I'm Melpen</h1>
+![image](https://github.com/Melpenyogi/Melpenyogi/assets/82245765/8002ede9-5da7-42ff-b691-fdffde49b035)
+-4490-98f2-41d0c4afe608)<h1 align="center">Hey Everyone 👋, I'm Melpen</h1>
 <div align="center"><img src="#"> </div>
 <h3 align="center">🌐From Papua Codes to the rest of the world.</h3>
 <p align="center">
