@@ -1,10 +1,11 @@
 ![image](https://github.com/Melpenyogi/Melpenyogi/assets/82245765/8002ede9-5da7-42ff-b691-fdffde49b035)
--4490-98f2-41d0c4afe608)<h1 align="center">Hey Everyone 👋, I'm Melpen</h1>
+<h1 align="center">Hey Everyone 👋, I'm Melpen</h1>
 <div align="center"><img src="#"> </div>
 <h3 align="center">🌐From Papua Codes to the rest of the world.</h3>
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=246DF7&width=435&lines=Experienced+Design+Web%2FBlog.;Learning+full-Stack+Developer;experienced+UI+%2F+UX+Designer;I+Always+Enjoyed+Learning+Programming" alt="Typing SVG" /></a>
+  
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D800&repeat=false&random=false&width=435&height=80&lines=Experienced+in+WordPress+CMS+Website+Design;Learning+Full-Stack+Developer;Enjoy+Learning+About+Technology" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social badges section -->
