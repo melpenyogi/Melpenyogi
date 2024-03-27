@@ -25,6 +25,7 @@
 <br/>
 
 - 👋🏿 Hi, I’m Melpen
+  
 - 🌐 I am WordPress designer
 
 - 🌱 I’m currently learning Web programming
@@ -32,6 +33,8 @@
 - 📫 I’m interested in Information Technologies
 
 - 🚀 I'm learning fullstack developer
+  
+- ✒️ Like to write
 
 <h3 align="left">Connect with me👆🏿</h3>
 <p align="left"> 
