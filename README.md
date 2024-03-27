@@ -26,7 +26,7 @@
 
 - 👋🏿 Hi, I’m Melpen
   
-- 🌐 I am WordPress designer
+- 🌐 I am WordPress design
 
 - 🌱 I’m currently learning Web programming
 
