@@ -24,10 +24,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSo1MAqmWE1NvgV8KzJ5otGO7uQMnTexqzOSIac5WuHEoyti_ddUgifnVWQdHv8Zf-S8xo-LQwGZEVxt8-EliRu3tAr1k0f8F9LZev1r17Nc_xrytwQqB3dONUoKRNj6k2rW9PvKr4zP5TQbMaEy-OXo-gyMkJRVPnD0RArfr-7IpOiUbiRW75eroLqiev/s320/pro-Recovered-user.png">
-
-<p align="left"> 🎯 </p>
-
+- 👋🏿 Hi, I’m Melpen
 - 🌐 I am WordPress designer
 
 - 🌱 I’m currently learning Web programming
