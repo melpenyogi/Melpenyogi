@@ -1,7 +1,7 @@
 ![image](https://github.com/Melpenyogi/Melpenyogi/assets/82245765/8002ede9-5da7-42ff-b691-fdffde49b035)
 <h1 align="center">👋, I'm Melpen</h1>
 <div align="center"><img src="#"> </div>
-<h3 align="center">🌐From Papua Codes to the rest of the world.</h3>
+<h3 align="center">🌐The knowledge and experience I learned will later be applied, Papua for all.</h3>
 <p align="center">
   
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
