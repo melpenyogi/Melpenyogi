@@ -26,13 +26,13 @@
 
 - 👋🏿 Hi, I’m Melpen
   
+- 🚀 I'm learning fullstack developer
+  
 - 🌐 I am WordPress design
 
 - 🌱 I’m currently learning Web programming
 
 - 📫 I’m interested in Information Technologies
-
-- 🚀 I'm learning fullstack developer
   
 - ✒️ Like to write
 
