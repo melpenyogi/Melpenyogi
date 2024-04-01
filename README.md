@@ -26,9 +26,9 @@
 
 - 👋🏿 Hi, I’m Melpen
   
-- 🚀 I'm learning fullstack developer
+- 🚀 I'm Web Developer
   
-- 🌐 I am WordPress design
+- 🌐 I'm CMS Designer
 
 - 🌱 I’m currently learning Web programming
 
