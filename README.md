@@ -17,7 +17,6 @@
 
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
-
 <br/>
 
 - 👋🏿 Hi, I’m Melpen
@@ -32,7 +31,6 @@
   
 - ✒️ Like to write
 
-<h3 align="left">Connect with me👆🏿</h3>
 <p align="left"> 
 </p>
 
