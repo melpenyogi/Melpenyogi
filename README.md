@@ -1,7 +1,6 @@
 ![image](https://github.com/Melpenyogi/Melpenyogi/assets/82245765/8002ede9-5da7-42ff-b691-fdffde49b035)
 <h1 align="center">👋, I'm Melpen</h1>
 <div align="center"><img src="#"> </div>
-<h3 align="center">🌐The knowledge and experience I learned will later be applied, Papua for all.</h3>
 <p align="center">
   
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -10,17 +9,14 @@
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+## Connect with me 👇🏿
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/melpen.yogi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melpen-yogi-296191188/)
+[![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/emawakreasi)
+[![Pinterest](https://img.shields.io/badge/Pinterest-23E4405F.svg?logo=pinterest&logoColor=white)](https://id.pinterest.com/melpenyogi/)
+
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://www.instagram.com/c/@Melpen.yogi">
-    <img alt="instagaram views" title="instagram views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a>
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
+
 
 <br/>
 
