@@ -1,5 +1,4 @@
-![image](https://github.com/Melpenyogi/Melpenyogi/assets/82245765/8002ede9-5da7-42ff-b691-fdffde49b035)
-<h1 align="center">👋, I'm Melpen</h1>
+<h1 align="center">👋 Hello Everyone, I'm Melpen</h1>
 <div align="center"><img src="#"> </div>
 <p align="center">
   
