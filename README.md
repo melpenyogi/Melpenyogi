@@ -33,17 +33,3 @@
 <p align="left"> 
 </p>
 
-<h3 align="center">Statistics</h3>
-
-
-<p align="center">
-  <a href="https://github.com/ikhsan3adi?tab=repositories">
-    <picture>
-      <source
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=ikhsan3adi&theme=material-palenight&radius=16&area=true&height=300"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikhsan3adi&theme=vue&radius=16&area=true&height=300" title="Contribution graph" width="99%" alt="contribution graph" />
-    </picture>
-  </a>
-</p>
