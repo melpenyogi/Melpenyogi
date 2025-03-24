@@ -19,17 +19,16 @@
 <br/>
 
 - 👋🏿 Hi, I’m Melpen
-  
+- 🔭 I’m currently working on freelance
 - 🚀 I'm Web Developer
-  
 - 🌐 I'm CMS Designer
-
 - 🌱 I’m currently learning Web programming
-
 - 📫 I’m interested in Information Technologies
-  
+-  🔭 I’m currently working on freelance
+-  👯 I’m looking to collaborate
 - ✒️ Like to write
-
+- 📖 Like read about a new teknologi
+  
 <p align="left"> 
 </p>
 
