@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, Everyone, I'm Melpen</h3>
+<h3 align="left">👋🏿 Hi, Everyone, I'm Melpen</h3>
 <div align="center"><img src="#"> </div>
 <p align="center">
   
@@ -7,8 +7,7 @@
 </p>
 
 <!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-##
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/melpen.yogi/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melpen-yogi-296191188/)
 [![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/M.Yogibo)
